@@ -14,6 +14,5 @@ This is my personal portfolio website where I showcase my projects, skills, and 
 ## Technologies Used
 
 - HTML
-- CSS (Sass/SCSS)
+- CSS
 - JavaScript
-- Bootstrap (optional)
